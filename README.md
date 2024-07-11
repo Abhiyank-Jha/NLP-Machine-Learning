@@ -2,7 +2,7 @@
 NLP: What is it?
 <p>Using a program or, indeed, a computer that can manipulate or comprehend speech through text is known as natural language processing (NLP). Comparison examples are human interaction, understanding one another's viewpoints, and responding properly. In NLP, computers can perform that communication, comprehension, and response instead of humans.</p>
 NLTK: What is it ?
-The Natural Language Toolkit (NLTK) is a Python programming environment for creating applications for statistical natural language processing (NLP).
+<p>The Natural Language Toolkit (NLTK) is a Python programming environment for creating applications for statistical natural language processing (NLP).</p>
 
 It includes language processing libraries for tokenization, parsing, classification, stemming, labeling, and semantic reasoning. It also comes with a curriculum and even a book describing the usually presented language processing jobs NLTK offers, together with visual demos, including experimental data repositories.
 
