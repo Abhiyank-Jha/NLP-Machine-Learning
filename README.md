@@ -1,6 +1,6 @@
 # NLP-Machine-Learning
 NLP: What is it?
-Using a program or, indeed, a computer that can manipulate or comprehend speech through text is known as natural language processing (NLP). Comparison examples are human interaction, understanding one another's viewpoints, and responding properly. In NLP, computers can perform that communication, comprehension, and response instead of humans.
+<p>Using a program or, indeed, a computer that can manipulate or comprehend speech through text is known as natural language processing (NLP). Comparison examples are human interaction, understanding one another's viewpoints, and responding properly. In NLP, computers can perform that communication, comprehension, and response instead of humans.</p>
 NLTK: What is it ?
 The Natural Language Toolkit (NLTK) is a Python programming environment for creating applications for statistical natural language processing (NLP).
 
